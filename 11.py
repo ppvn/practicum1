@@ -1,2 +1,2 @@
 name = input('Как Вас зовут? ')
-print('Привет,', name, '!')
+print(f'Привет, {name}!')
